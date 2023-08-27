@@ -1,8 +1,8 @@
-var secondsInAMinute = 60;
-var minutesInAHour = 60;
-var hoursInADay = 24;
-var daysInAYear = 365;
-var secondsInAYear = secondsInAMinute * minutesInAHour * hoursInADay * daysInAYear;
-var age = 39;
+let secondsInAMinute = 60;
+let minutesInAHour = 60;
+let hoursInADay = 24;
+let daysInAYear = 365;
+let secondsInAYear = secondsInAMinute * minutesInAHour * hoursInADay * daysInAYear;
+let age = 39;
 ageInSecond = age * secondsInAYear;
 console.log(ageInSecond);
