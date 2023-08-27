@@ -4,5 +4,5 @@ let hoursInADay = 24;
 let daysInAYear = 365;
 let secondsInAYear = secondsInAMinute * minutesInAHour * hoursInADay * daysInAYear;
 let age = 39;
-ageInSecond = age * secondsInAYear;
+let ageInSecond = age * secondsInAYear;
 console.log(ageInSecond);
