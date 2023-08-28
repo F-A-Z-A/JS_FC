@@ -7,4 +7,8 @@ console.log(
     text = textCapital + textlower
 );
 
+// Эй, как дела?
+
+
+
 // text[0].toUpperCase() + text.slice(1).toLowerCase();
