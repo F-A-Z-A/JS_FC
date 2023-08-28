@@ -1,4 +1,3 @@
-
 let text = "эЙ, кАК деЛа?";
 textCapital = text[0].toUpperCase();
 textlower = text.toLowerCase().slice(1);
