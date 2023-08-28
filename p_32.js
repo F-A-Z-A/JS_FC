@@ -6,3 +6,5 @@ let secondsInAYear = secondsInAMinute * minutesInAHour * hoursInADay * daysInAYe
 let age = 39;
 let ageInSecond = age * secondsInAYear;
 console.log(ageInSecond);
+
+// 1229904000
