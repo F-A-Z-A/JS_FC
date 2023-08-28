@@ -13,3 +13,5 @@ let codeWord_0 = '$#%!';
 console.log(
     codeWord_1[5] + codeWord_2[0] + codeWord_3[2] + codeWord_4[2] + codeWord_5[4] + codeWord_6[2] + codeWord_7[4] + codeWord_8[5] + codeWord_9[1] + codeWord_0[3]
 );
+
+// инкубатор!
